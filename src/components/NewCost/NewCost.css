@@ -1,5 +1,8 @@
 .new-cost {
-  background-color: #aac4d1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #0c3e3ecf;
   padding: 1rem;
   margin: 2rem auto;
   width: 70rem;
@@ -13,11 +16,12 @@
   font: inherit;
   cursor: pointer;
   padding: 1rem 2rem;
-  border: 1px solid #2a5b84;
-  background-color: #2a5b84;
+  border: 1px solid #217c39;
+  background-color: #217c39;
   color: #fefae1;
   border-radius: 10px;
   margin-right: 3px;
+  margin-top: 5px;
 }
 
 .new-cost button:hover,
