@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_app_cost_accounting/static/css/main.e6b80938.css",
+    "main.js": "/react_app_cost_accounting/static/js/main.0296525e.js",
+    "index.html": "/react_app_cost_accounting/index.html",
+    "main.e6b80938.css.map": "/react_app_cost_accounting/static/css/main.e6b80938.css.map",
+    "main.0296525e.js.map": "/react_app_cost_accounting/static/js/main.0296525e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b80938.css",
+    "static/js/main.0296525e.js"
+  ]
+}
